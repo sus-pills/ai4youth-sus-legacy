@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./contest/logo.svg" width="300px" alt="sus_logo">
+  <img src="./misc/logo.svg" width="300px" alt="sus_logo">
 </p>
 
 # SUS Pills
@@ -20,7 +20,7 @@ With the prepared material you can also skip all of that by doing this single st
 ## Tree
 ```
 SUS_Pills
-├───contest
+├───misc
 ├───data
 │   └───images
 │       ├───.predict
@@ -33,7 +33,7 @@ SUS_Pills
 ```
 From top to bottom we have:
 - `SUS_Pills` - root folder with the `README.md` file and every other folder.
-- `contest` - folder with the required documentation for the project.
+- `misc` - folder with the required documentation for the project.
 - `data` - folder with data and data-oriented files.
 - `images` - folder with every image folder like `.predict` and `.train`.
 - `.train` - folder used for training. It contains folder named after types of pille, in which are corresponding pill photos.
@@ -46,7 +46,7 @@ From top to bottom we have:
 
 There is also a graphic representation of the tree, including the directories automatically created by the environment (look for more in the **Environment specifications**):
 <p align="center">
-    <img src="./contest/tree.png" alt="tree">
+    <img src="./misc/tree.png" alt="tree">
 </p>
 
 ## Implemented functions
